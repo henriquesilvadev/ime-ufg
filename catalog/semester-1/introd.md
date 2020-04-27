@@ -1,5 +1,5 @@
 ```image
-src: header.jpg
+src: static/calc-1/header.jpg
 plain: true
 ```
 (02/03/2020 - 06/03/2020)

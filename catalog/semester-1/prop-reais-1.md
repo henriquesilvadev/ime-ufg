@@ -1,9 +1,8 @@
 ```image
-src: calc-1.jpg
+src: https://media.giphy.com/media/hCiQVo1dzVwPu/giphy.gif
 plain: true
 ```
 
-## Oi!
+## Desculpa!
 
-**Bem Vinda!** Seja você colega de jornada ou não da turma 01.2020 do Curso de Estatística do IME-UFG.
-Espero que seja de utilidade a quem por ventura venha à visitar.
+Logo termos novidades!
