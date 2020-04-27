@@ -1,5 +1,5 @@
 ```image
-src: me.jpg
+src: static/me.jpg
 plain: true
 ```
 
