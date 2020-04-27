@@ -28,7 +28,22 @@
           title: 'Bem Vindo!', // The page title
           src: 'WEELCOME.md'   // Path to the Markdown document
         },
-        // Other pages …
+        {    
+          title: "CÁLCULO DIFERENCIAL",
+          
+          pages: [
+            {      
+              path: "semester-1/calc-1.md",
+              title: 'Introdução',
+              src: './semester-1/introd.md'    
+            },
+            {      
+              path: "semester-1/est-1.md",
+              title: 'Propriedade dos reais',
+              src: './semester-1/prop-reais-1.md'    
+            },
+          ],
+        }
       ]
     }, document.getElementById('catalog'));
   </script>
