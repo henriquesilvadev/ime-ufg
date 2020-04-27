@@ -1,5 +1,7 @@
 {
-  "name": "book",
+  "name": "ime-ufg",
+  "version": "0.1.0",
+  "private": true,
   "description": "",
   "dependencies": {
     "catalog": "^3.6.0",
