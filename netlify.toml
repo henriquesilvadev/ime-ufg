@@ -1,4 +1,4 @@
 [build]
   base = ""
-  command = "npm install && npm run build && npm audit fix && npm fund"
+  command = "npm run catalog-build""
   publish = "catalog/"
