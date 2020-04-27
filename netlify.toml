@@ -1,4 +1,4 @@
 [build]
   base = ""
-  command = "npm run catalog-build"
+  command = "npm run catalog-build && npm run catalog-start"
   publish = "catalog/"
