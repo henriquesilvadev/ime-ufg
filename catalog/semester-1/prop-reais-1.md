@@ -5,4 +5,4 @@ plain: true
 
 ## Desculpa!
 
-Logo termos novidades!
+Logo teremos novidades!
