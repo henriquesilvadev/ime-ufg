@@ -28,3 +28,4 @@ Funções e limites.
 [Equações de Retas ](/static/calc-1/EquacaoRetas.pdf)
 [Teste ](/static/calc-1/teste.pdf)
 [Equações e Funções Quadráticas ](/static/calc-1/Quadratico.pdf)
+[Funções Lineares](/static/calc-1/FuncoesLin.pdf)
