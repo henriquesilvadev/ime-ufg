@@ -16,7 +16,7 @@ const pages = [
       {      
         path: "semester-1/calc-1.md",
         title: 'Introdução',
-        content: pageLoader(() => import('./semester-1/introd.md'))    
+        content: pageLoader(() => import('./semester-1/calc-1.md'))
       },
       {      
         path: "semester-1/est-1.md",

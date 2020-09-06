@@ -1,9 +1,11 @@
 ```image
-src: calc-1.jpg
+src: static/header.jpg
 plain: true
 ```
+Rudimentos de Teoria dos Conjuntos (02/03/2020 - 02/03/2020)
+[Plano de Ensino](https://storage.googleapis.com/ime-ufg/pdf/Introd_Probabilidade.pdf)
+[aula1.pdf](https://storage.googleapis.com/ime-ufg/pdf/aula1.pdf)
 
-## Oi!
+Plano de Ensino - Retorno Remoto (31/08/2020 - 31/08/2020)
+[Introducao_Probabilidade_Remoto_Diurno (2).pdf](https://storage.googleapis.com/ime-ufg/pdf/Introducao_Probabilidade_Remoto_Diurno%20(2).pdf)
 
-**Bem Vinda!** Seja você colega de jornada ou não da turma 01.2020 do Curso de Estatística do IME-UFG.
-Espero que seja de utilidade a quem por ventura venha à visitar.
