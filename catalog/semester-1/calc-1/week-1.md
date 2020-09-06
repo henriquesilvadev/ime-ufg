@@ -9,3 +9,5 @@ plain: true
 ![](https://storage.googleapis.com/ime-ufg/giff/C%C3%A1lculo%20Vol.%2001%20Guidorizzi%20-%20Exerc%C3%ADcios%201.2.gif)
 
 PDF: [Cálculo Vol. 01 Guidorizzi - Exercícios 1.2](https://storage.googleapis.com/ime-ufg/pdf/C%C3%A1lculo%20Vol.%2001%20Guidorizzi%20-%20Exerc%C3%ADcios%201.2.pdf)
+
+
