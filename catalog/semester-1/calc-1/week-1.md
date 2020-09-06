@@ -1,5 +1,5 @@
 ```image
-src: static/header.jpg
+src: https://storage.googleapis.com/ime-ufg/images/guidorizzi-header.jpg
 plain: true
 ```
 ## Números naturais, números inteiros e introdução aos racionais(GM).Teste de conhecimentos adquirido(moodle)
