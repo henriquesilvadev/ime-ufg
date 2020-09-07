@@ -4,10 +4,14 @@ plain: true
 ```
 ## Números naturais, números inteiros e introdução aos racionais(GM).Teste de conhecimentos adquirido(moodle)
 
+Material de Apoio:
+
+- [Pré-Cálculo](https://storage.googleapis.com/ime-ufg/pdf/Pr%C3%A9-C%C3%A1lculo.pdf)
+
 ### Resolvendo lista de exercícios do livro
 
 ![](https://storage.googleapis.com/ime-ufg/giff/C%C3%A1lculo%20Vol.%2001%20Guidorizzi%20-%20Exerc%C3%ADcios%201.2.gif)
 
-Notebook: [Cálculo Vol. 01 Guidorizzi - Exercícios 1.2](https://colab.research.google.com/drive/1tH7n9_ggZa7B0yo9fckVVn_G33mDD0h8?usp=sharing)
+Notebooks:
 
-
+- [Cálculo Vol. 01 Guidorizzi - Exercícios 1.2](https://colab.research.google.com/drive/1tH7n9_ggZa7B0yo9fckVVn_G33mDD0h8?usp=sharing)
